@@ -1,0 +1,392 @@
+[
+    {
+        "plaka": "34 ABC 123",
+        "marka": "Renault",
+        "model": "Clio",
+        "gunluk_ucret": 1200.0,
+        "durum": "müsait",
+        "kiralayan": null,
+        "baslangic_tarihi": null,
+        "bitis_tarihi": null
+    },
+    {
+        "plaka": "35 XYZ 456",
+        "marka": "Fiat",
+        "model": "Egea",
+        "gunluk_ucret": 1100.0,
+        "durum": "kirada",
+        "kiralayan": "Ahmet Yılmaz",
+        "baslangic_tarihi": "2023-10-01",
+        "bitis_tarihi": "2023-10-05"
+    },
+    {
+        "plaka": "07 GHI 101",
+        "marka": "Ford",
+        "model": "Focus",
+        "gunluk_ucret": 1600.0,
+        "durum": "müsait",
+        "kiralayan": null,
+        "baslangic_tarihi": null,
+        "bitis_tarihi": null
+    },
+    {
+        "plaka": "16 JKL 202",
+        "marka": "BMW",
+        "model": "320i",
+        "gunluk_ucret": 5.0,
+        "durum": "kirada",
+        "kiralayan": "Ayşe Demir",
+        "baslangic_tarihi": "2023-10-02",
+        "bitis_tarihi": "2023-10-10"
+    },
+    {
+        "plaka": "34 MNO 303",
+        "marka": "Mercedes",
+        "model": "C200",
+        "gunluk_ucret": 4000.0,
+        "durum": "müsait",
+        "kiralayan": null,
+        "baslangic_tarihi": null,
+        "bitis_tarihi": null
+    },
+    {
+        "plaka": "41 PQR 404",
+        "marka": "Volkswagen",
+        "model": "222",
+        "gunluk_ucret": 2200.0,
+        "durum": "kirada",
+        "kiralayan": "Mehmet Kaya",
+        "baslangic_tarihi": "2023-09-28",
+        "bitis_tarihi": "2023-10-03"
+    },
+    {
+        "plaka": "55 STU 505",
+        "marka": "Hyundai",
+        "model": "i20",
+        "gunluk_ucret": 1150.0,
+        "durum": "müsait",
+        "kiralayan": null,
+        "baslangic_tarihi": null,
+        "bitis_tarihi": null
+    },
+    {
+        "plaka": "61 VWX 606",
+        "marka": "Opel",
+        "model": "Corsa",
+        "gunluk_ucret": 1100.0,
+        "durum": "müsait",
+        "kiralayan": null,
+        "baslangic_tarihi": null,
+        "bitis_tarihi": null
+    },
+    {
+        "plaka": "34 YZA 707",
+        "marka": "Peugeot",
+        "model": "3008",
+        "gunluk_ucret": 2500.0,
+        "durum": "kirada",
+        "kiralayan": "Fatma Çelik",
+        "baslangic_tarihi": "2023-10-01",
+        "bitis_tarihi": "2023-10-08"
+    },
+    {
+        "plaka": "34 BCD 808",
+        "marka": "Honda",
+        "model": "Civic",
+        "gunluk_ucret": 1800.0,
+        "durum": "müsait",
+        "kiralayan": null,
+        "baslangic_tarihi": null,
+        "bitis_tarihi": null
+    },
+    {
+        "plaka": "35 EFG 909",
+        "marka": "Nissan",
+        "model": "Qashqai",
+        "gunluk_ucret": 2300.0,
+        "durum": "kirada",
+        "kiralayan": "Caner Erkin",
+        "baslangic_tarihi": "2023-09-30",
+        "bitis_tarihi": "2023-10-02"
+    },
+    {
+        "plaka": "06 HIJ 010",
+        "marka": "Skoda",
+        "model": "Octavia",
+        "gunluk_ucret": 1900.0,
+        "durum": "müsait",
+        "kiralayan": null,
+        "baslangic_tarihi": null,
+        "bitis_tarihi": null
+    },
+    {
+        "plaka": "07 KLM 111",
+        "marka": "Dacia",
+        "model": "Duster",
+        "gunluk_ucret": 1400.0,
+        "durum": "müsait",
+        "kiralayan": null,
+        "baslangic_tarihi": null,
+        "bitis_tarihi": null
+    },
+    {
+        "plaka": "34 NOP 212",
+        "marka": "Audi",
+        "model": "A3",
+        "gunluk_ucret": 2800.0,
+        "durum": "kirada",
+        "kiralayan": "Selin Şahin",
+        "baslangic_tarihi": "2023-10-03",
+        "bitis_tarihi": "2023-10-06"
+    },
+    {
+        "plaka": "16 QRS 313",
+        "marka": "Kia",
+        "model": "Sportage",
+        "gunluk_ucret": 2400.0,
+        "durum": "müsait",
+        "kiralayan": null,
+        "baslangic_tarihi": null,
+        "bitis_tarihi": null
+    },
+    {
+        "plaka": "26 TUV 414",
+        "marka": "Citroen",
+        "model": "C3",
+        "gunluk_ucret": 1050.0,
+        "durum": "müsait",
+        "kiralayan": null,
+        "baslangic_tarihi": null,
+        "bitis_tarihi": null
+    },
+    {
+        "plaka": "34 WXY 515",
+        "marka": "Volvo",
+        "model": "XC90",
+        "gunluk_ucret": 5500.0,
+        "durum": "kirada",
+        "kiralayan": "Burak Öz",
+        "baslangic_tarihi": "2023-10-01",
+        "bitis_tarihi": "2023-10-15"
+    },
+    {
+        "plaka": "54 ZAB 616",
+        "marka": "Seat",
+        "model": "Leon",
+        "gunluk_ucret": 1700.0,
+        "durum": "müsait",
+        "kiralayan": null,
+        "baslangic_tarihi": null,
+        "bitis_tarihi": null
+    },
+    {
+        "plaka": "34 CDE 717",
+        "marka": "Renault",
+        "model": "Megane",
+        "gunluk_ucret": 1650.0,
+        "durum": "kirada",
+        "kiralayan": "Elif Koç",
+        "baslangic_tarihi": "2023-10-04",
+        "bitis_tarihi": "2023-10-05"
+    },
+    {
+        "plaka": "34 FGH 818",
+        "marka": "Fiat",
+        "model": "Doblo",
+        "gunluk_ucret": 1300.0,
+        "durum": "müsait",
+        "kiralayan": null,
+        "baslangic_tarihi": null,
+        "bitis_tarihi": null
+    },
+    {
+        "plaka": "35 IJK 919",
+        "marka": "Toyota",
+        "model": "Yaris",
+        "gunluk_ucret": 1250.0,
+        "durum": "müsait",
+        "kiralayan": null,
+        "baslangic_tarihi": null,
+        "bitis_tarihi": null
+    },
+    {
+        "plaka": "06 LMN 020",
+        "marka": "Ford",
+        "model": "Kuga",
+        "gunluk_ucret": 2600.0,
+        "durum": "kirada",
+        "kiralayan": "Murat Arslan",
+        "baslangic_tarihi": "2023-09-29",
+        "bitis_tarihi": "2023-10-09"
+    },
+    {
+        "plaka": "07 OPQ 121",
+        "marka": "BMW",
+        "model": "520i",
+        "gunluk_ucret": 4500.0,
+        "durum": "müsait",
+        "kiralayan": null,
+        "baslangic_tarihi": null,
+        "bitis_tarihi": null
+    },
+    {
+        "plaka": "34 RST 222",
+        "marka": "Mercedes",
+        "model": "E180",
+        "gunluk_ucret": 4800.0,
+        "durum": "kirada",
+        "kiralayan": "Zeynep Tekin",
+        "baslangic_tarihi": "2023-10-02",
+        "bitis_tarihi": "2023-10-04"
+    },
+    {
+        "plaka": "42 UVW 323",
+        "marka": "Volkswagen",
+        "model": "Golf",
+        "gunluk_ucret": 1750.0,
+        "durum": "müsait",
+        "kiralayan": null,
+        "baslangic_tarihi": null,
+        "bitis_tarihi": null
+    },
+    {
+        "plaka": "34 XYZ 424",
+        "marka": "Hyundai",
+        "model": "Tucson",
+        "gunluk_ucret": 2700.0,
+        "durum": "müsait",
+        "kiralayan": null,
+        "baslangic_tarihi": null,
+        "bitis_tarihi": null
+    },
+    {
+        "plaka": "34 ABC 525",
+        "marka": "Opel",
+        "model": "Astra",
+        "gunluk_ucret": 1600.0,
+        "durum": "kirada",
+        "kiralayan": "Hakan Yıldız",
+        "baslangic_tarihi": "2023-10-01",
+        "bitis_tarihi": "2023-10-03"
+    },
+    {
+        "plaka": "10 DEF 626",
+        "marka": "Peugeot",
+        "model": "2008",
+        "gunluk_ucret": 2100.0,
+        "durum": "müsait",
+        "kiralayan": null,
+        "baslangic_tarihi": null,
+        "bitis_tarihi": null
+    },
+    {
+        "plaka": "34 GHI 727",
+        "marka": "Honda",
+        "model": "CR-V",
+        "gunluk_ucret": 3000.0,
+        "durum": "kirada",
+        "kiralayan": "Buse Güneş",
+        "baslangic_tarihi": "2023-09-25",
+        "bitis_tarihi": "2023-10-05"
+    },
+    {
+        "plaka": "34 JKL 828",
+        "marka": "Jeep",
+        "model": "Renegade",
+        "gunluk_ucret": 2900.0,
+        "durum": "müsait",
+        "kiralayan": null,
+        "baslangic_tarihi": null,
+        "bitis_tarihi": null
+    },
+    {
+        "plaka": "63 MNO 929",
+        "marka": "Skoda",
+        "model": "Superb",
+        "gunluk_ucret": 2400.0,
+        "durum": "müsait",
+        "kiralayan": null,
+        "baslangic_tarihi": null,
+        "bitis_tarihi": null
+    },
+    {
+        "plaka": "27 PQR 030",
+        "marka": "Dacia",
+        "model": "Sandero",
+        "gunluk_ucret": 950.0,
+        "durum": "kirada",
+        "kiralayan": "Cem Yılmaz",
+        "baslangic_tarihi": "2023-10-04",
+        "bitis_tarihi": "2023-10-06"
+    },
+    {
+        "plaka": "34 STU 131",
+        "marka": "Audi",
+        "model": "A4",
+        "gunluk_ucret": 3200.0,
+        "durum": "müsait",
+        "kiralayan": null,
+        "baslangic_tarihi": null,
+        "bitis_tarihi": null
+    },
+    {
+        "plaka": "34 VWX 232",
+        "marka": "Kia",
+        "model": "Rio",
+        "gunluk_ucret": 1100.0,
+        "durum": "müsait",
+        "kiralayan": null,
+        "baslangic_tarihi": null,
+        "bitis_tarihi": null
+    },
+    {
+        "plaka": "34 YZA 333",
+        "marka": "Citroen",
+        "model": "C5 Aircross",
+        "gunluk_ucret": 2650.0,
+        "durum": "kirada",
+        "kiralayan": "Derya Deniz",
+        "baslangic_tarihi": "2023-10-01",
+        "bitis_tarihi": "2023-10-10"
+    },
+    {
+        "plaka": "34 BCD 434",
+        "marka": "Land Rover",
+        "model": "Range Rover",
+        "gunluk_ucret": 8000.0,
+        "durum": "müsait",
+        "kiralayan": null,
+        "baslangic_tarihi": null,
+        "bitis_tarihi": null
+    },
+    {
+        "plaka": "06 EFG 535",
+        "marka": "Seat",
+        "model": "Ibiza",
+        "gunluk_ucret": 1200.0,
+        "durum": "müsait",
+        "kiralayan": null,
+        "baslangic_tarihi": null,
+        "bitis_tarihi": null
+    },
+    {
+        "plaka": "34 HIJ 636",
+        "marka": "Mini",
+        "model": "Cooper",
+        "gunluk_ucret": 2100.0,
+        "durum": "kirada",
+        "kiralayan": "Selin Atik",
+        "baslangic_tarihi": "2023-10-03",
+        "bitis_tarihi": "2023-10-04"
+    },
+    {
+        "plaka": "35 KLM 737",
+        "marka": "Tesla",
+        "model": "Model Y",
+        "gunluk_ucret": 4200.0,
+        "durum": "müsait",
+        "kiralayan": null,
+        "baslangic_tarihi": null,
+        "bitis_tarihi": null
+    }
+]
